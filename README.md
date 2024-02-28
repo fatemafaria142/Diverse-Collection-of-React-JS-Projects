@@ -1,7 +1,6 @@
-# Your Project Title
-
-Description of your project.
+# Food Order App
+This is a simple food order application built using HTML, CSS, JavaScript, and ReactJS.
 
 ![Alt text](project_1.PNG)
 
-More details about your project...
+
